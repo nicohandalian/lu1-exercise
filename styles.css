@@ -1,3 +1,14 @@
+body {
+  background: coral;
+}
+
+h1 {
+  color: royalblue;
+}
+
 p {
   border: royalblue solid 1px;
+  color: royalblue;
+  display: inline-block;
+  margin-top: 1em;
 }
