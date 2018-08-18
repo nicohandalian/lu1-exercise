@@ -1,0 +1,29 @@
+body {
+  background-color: royalblue;
+  color: coral;
+  text-align: center;
+}
+h1 {
+  margin: auto auto 0 auto;
+}
+div {
+  border: coral solid 1px;
+  display: inline-block;
+  margin: 20px 0 20px 0;
+  width: 200px;
+}
+
+p {
+  padding: 5px;
+  margin: 0 auto 0 auto;
+}
+span {
+  background-color: coral;
+  color: royalblue;
+  display: block;
+}
+
+a {
+  color: coral;
+  display: block;
+}
