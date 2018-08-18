@@ -1,20 +1,26 @@
 body {
-  background-color: coral;
-  color: royalblue;
+  background-color: royalblue;
+  color: coral;
   text-align: center;
 }
 
-p {
-  border: royalblue solid 1px;
+div {
+  border: coral solid 1px;
   display: inline-block;
+  margin: 20px;
+  width: 200px;
 }
 
+p {
+  padding: 5px;
+}
 span {
-  background-color: royalblue;
-  color: coral;
+  background-color: coral;
+  color: royalblue;
   display: block;
 }
 
 a {
+  color: coral;
   display: block;
 }
